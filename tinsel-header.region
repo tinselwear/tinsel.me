@@ -33,12 +33,8 @@
           <div class="navbar-header">
           {.section website}
             <a href="/" class="home-link pull-left">
-              {.section logoImageUrl}
-               <img class="logo" src="{logoImageUrl}?format=original" alt="{siteTitle}" />
-              {.or}
                <img class="logo" src="/assets/header-logo.png" alt="{siteTitle}" />
                <span class="sr-only">{siteTitle}</span>
-              {.end}
             </a>
             {.section siteTagLine}
               <p class="site-tagline sr-only">{@}</p>
