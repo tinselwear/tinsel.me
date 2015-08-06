@@ -365,7 +365,8 @@ body {}
             font-family: "CentaurMT-BoldItalic", serif;
             font-size: 23px;
             line-height: 1;
-            padding: 10px 30px; }
+            padding: 10px 30px;
+            text-transform: none; }
 @media (min-width: 768px) {
 .mailing-list {
     background: #000 url("/assets/purple-pattern-bg.jpg") 0 0 repeat-x;
