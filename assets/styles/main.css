@@ -216,7 +216,9 @@ body {}
     .features-benefits .section-border {
         display: none; }
     .features-benefits h2 {
-        padding: 348px 172px 76px; }
+        margin: 0 auto;
+        padding: 348px 0 76px;
+        width: 968px; }
     .features-benefits .tagline {
         padding-top: 40px; }
     .features-benefits .carousel {
