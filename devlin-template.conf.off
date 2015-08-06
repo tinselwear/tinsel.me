@@ -1,7 +1,10 @@
 {
-  "name" : "Tinsel Main Site",
-  "author" : "Marco Rogers ",
-  "debug": true,
+  "name" : "Devlin",
+
+  "debug" : false,
+
+  "author" : "Squarespace",
+
   "layouts" : {
     "default" : {
       "name" : "Full Width",
@@ -14,19 +17,18 @@
     "right-sidebar" : {
       "name" : "Right Sidebar",
       "regions" : [ "header","site-rs","footer" ]
-    },
-    "homepage": {
-      "name": "Home Page",
-      "regions": [ "tinsel-header", "home-page", "tinsel-footer" ]
     }
   },
-  
-  "navigations" : [ {
-      "title" : "Main Navigation",
-      "name" : "mainNav"
-  } ],
+
+  "navigations": [
+    {
+      "title": "Main Navigation",
+      "name": "navigation"
+    }
+  ],
 
   "stylesheets" : [ "tweak.less", "global.less", "mobile.less" ],
 
   "systemCollections" : [ "gallery", "events", "products", "album" ]
+
 }

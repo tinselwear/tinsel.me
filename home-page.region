@@ -1,0 +1,150 @@
+<div class="container-fluid">
+
+<div class="row">
+  <div class="content-section main-intro">
+    <div class="inner">
+    <h2>SHINE.<br> DON'T SETTLE.</h2>
+    <div class="content">
+      <p>Tinsel integrates the functionality of headphones into a necklace that won’t sacrifice a woman’s style.</p>
+    </div>
+    </div>
+  </div>
+</div><!-- row -->
+
+<div class="row">
+  <div class="content-section-alt features-benefits">
+    <div class="section-border"></div>
+    <h2>FEATURES<br> &amp; BENEFITS</h2>
+    <div id="carousel-features-benefits" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-features-benefits" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-features-benefits" data-slide-to="1"></li>
+        <li data-target="#carousel-features-benefits" data-slide-to="2"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="/assets/jewel-piece-white.png" alt="...">
+          <p class="tagline">a bold, beautiful jewelry piece</p>
+          <p>Our first audio necklace, The Dipper, seamlessly blends style and function. No one will know that you’re wearing anything other than a necklace when it’s not in use.</p>
+        </div>
+        <div class="item">
+          <img src="/assets/sound-wave-white.png" alt="...">
+          <p class="tagline">headphones with premium audio quality</p>
+          <p>Tinsel delivers high-quality sound that rivals other audio brands. Our earbuds use the top-of-the-line components and are tuned to perfection.</p>
+        </div>
+        <div class="item">
+          <img src="/assets/earbud-chevrons-white.png" alt="...">
+          <p class="tagline">a hassle-free earbud experience</p>
+          <p>No more untangling wires for days, digging for earbuds in your black hole of a purse, looking like a wannabe DJ or downgrading your carefully curated outfit.</p>
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-features-benefits" role="button" data-slide="prev">
+        <img alt="Previous" src="/assets/carousel-arrow-left-alt.png" aria-hidden="true">
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-features-benefits" role="button" data-slide="next">
+        <img alt="Next" src="/assets/carousel-arrow-right-alt.png" aria-hidden="true">
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+</div><!-- row -->
+
+<div class="row">
+  <div class="content-section meet-dipper">
+    <div class="inner">
+
+    <h2>MEET THE<br> DIPPER</h2>
+    <div id="carousel-meet-dipper" class="carousel slide" data-ride="carousel" data-interval="false">
+      <!-- Indicators -->
+      <ol class="carousel-indicators img-indicators">
+        <li data-target="#carousel-meet-dipper" data-slide-to="0" class="active">
+          <img src="/assets/chevron-nav-gold.png" alt="">
+        </li>
+        <li data-target="#carousel-meet-dipper" data-slide-to="3">
+          <img src="/assets/chevron-nav-gunmetal.png" alt="">
+        </li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active product-gold">
+          <img src="/assets/dipper-product-gold-1.png" alt="...">
+          <p class="product-caption">The Dipper audio necklace cleverly conceals earbuds within its bold, chic design.</p>
+        </div>
+        <div class="item product-gold">
+          <img src="/assets/dipper-product-gold-2.png" alt="...">
+          <p class="product-caption">It requires no charging and no syncing with your device. Just put on The Dipper and go!</p>
+        </div>
+        <div class="item product-gold">
+          <img src="/assets/dipper-product-gold-3.png" alt="...">
+          <p class="product-caption">Our tech jewelry is built with quality materials and made to last.</p>
+        </div>
+        <div class="item product-gunmetal">
+          <img src="/assets/dipper-product-gunmetal-1.png" alt="...">
+          <p class="product-caption">You can make and take phone calls, talk to Siri, or space out to the soundtrack of your life.</p>
+        </div>
+        <div class="item product-gunmetal">
+          <img src="/assets/dipper-product-gunmetal-2.png" alt="...">
+          <p class="product-caption">A 3-button remote control and mic are integrated into the necklace features, too.</p>
+        </div>
+        <div class="item product-gunmetal">
+          <img src="/assets/dipper-product-gunmetal-3.png" alt="...">
+          <p class="product-caption">The Dipper’s earbuds are carefully designed to fit a woman’s ear comfortably.</p>
+        </div>
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-meet-dipper" role="button" data-slide="prev">
+        <img alt="Previous" src="/assets/carousel-arrow-left.png" aria-hidden="true">
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-meet-dipper" role="button" data-slide="next">
+        <img alt="Next" src="/assets/carousel-arrow-right.png" aria-hidden="true">
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+    </div>
+    <div class="section-border"></div>
+  </div>
+</div><!-- row -->
+
+<div class="row">
+  <div class="content-section why-tinsel clearfix">
+    <h2>WHY<br> TINSEL?</h2>
+    <div class="content">
+      <div class="row">
+        <p class="col-sm-6">Our “tech jewelry” allows you to wear tech essentials as beautiful accessories that complement the other pieces you wear, and help you live your life on-the-go with ease.</p>
+        <p class="col-sm-6">Meet the group that has brought Tinsel to life.</p>
+      </div>
+      <!--
+      <a href="/team" class="btn btn-default btn-lg team-btn">meet the Tinsel team</a>
+    -->
+    </div>
+    <a href="/team" class="team-photos clearfix"><img class="pull-right" src="/assets/team-photos.png" alt="meet the Tinsel team"></a>
+  </div>
+</div><!-- row -->
+
+<div class="row">
+  <div id="mailingList" class="content-section-alt mailing-list">
+    <div class="row content">
+      <div class="col-sm-6">
+        <h2>SIGN UP FOR<br> OUR MAILING LIST</h2>
+        <p>Our subscribers will get special access and pre-sale discounts!</p>
+      </div>
+      <div class="col-sm-6">
+        <!-- form block -->
+        <squarespace:block-field id="mailingListBlock" label="Mailing List Form" columns="1" />
+        <!-- end form block -->
+      </div>
+    </div>
+  </div>
+</div><!-- row -->
+
+</div><!-- main container -->
