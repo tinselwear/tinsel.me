@@ -127,7 +127,7 @@
       <a href="/team" class="btn btn-default btn-lg team-btn">meet the Tinsel team</a>
     -->
     </div>
-    <a href="/team" class="team-photos clearfix"><img class="pull-right" src="/assets/team-photos.png" alt="meet the Tinsel team"></a>
+    <span class="team-photos clearfix"><img class="pull-right" src="/assets/team-photos.png" alt="meet the Tinsel team"></span>
   </div>
 </div><!-- row -->
 
