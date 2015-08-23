@@ -238,7 +238,7 @@ body {}
 }
 
 .meet-dipper {
-    background: #000 url("/assets/meet-dipper-bg-m.jpg") 0 0 no-repeat;
+    background: #fff url("/assets/meet-dipper-bg-m.jpg") 0 0 no-repeat;
     background-size: 768px;
     padding-bottom: 0; }
     .meet-dipper .section-border {
@@ -283,8 +283,8 @@ body {}
         top: 65px; }
 @media (min-width: 768px) {
 .meet-dipper {
-    background: #000 url("/assets/meet-dipper-bg.jpg") 50% 0 no-repeat;
-    background-size: auto;
+    background: #000 url("/assets/meet-dipper-bg.jpg") 50% 0 repeat-y;
+    background-size: contain;
     padding-bottom: 0; }
     .meet-dipper .section-border {
         height: 0;
