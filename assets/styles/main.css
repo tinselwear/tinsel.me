@@ -70,6 +70,10 @@ body {}
     .header-nav .navbar-collapse {
         background-color: transparent;
         border-color: transparent; }
+.affix.header-nav {
+    max-width: none; }
+.affix .container-fluid {
+    max-width: 1150px; }
 }
 
 .carousel-inner {
