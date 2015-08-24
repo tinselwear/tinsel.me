@@ -284,7 +284,7 @@ body {}
 @media (min-width: 768px) {
 .meet-dipper {
     background: #000 url("/assets/meet-dipper-bg.jpg") 50% 0 repeat-y;
-    background-size: contain;
+    background-size: cover;
     padding-bottom: 0; }
     .meet-dipper .section-border {
         height: 0;
