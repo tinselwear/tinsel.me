@@ -342,12 +342,13 @@ body {}
         padding: 348px 0 40px 173px;
         width: 1150px; }
     .why-tinsel .content {
-        width: 968px; }
+        padding: 0 173px; }
     .why-tinsel .team-btn {
         margin-top: 30px; }
     .why-tinsel .team-photos {
         margin-bottom: 100px;
-        width: 968px; }
+        padding: 0 173px;
+        width: 1150px; }
     .why-tinsel .team-photos img {
         display: block;
         width: 60%; }
