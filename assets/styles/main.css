@@ -221,8 +221,8 @@ body {}
         display: none; }
     .features-benefits h2 {
         margin: 0 auto;
-        padding: 348px 0 76px;
-        width: 968px; }
+        padding: 348px 0 76px 173px;
+        width: 1150px; }
     .features-benefits .tagline {
         padding-top: 40px; }
     .features-benefits .carousel {
@@ -339,8 +339,8 @@ body {}
     background-size: 100%;
     max-height: 1328px; }
     .why-tinsel h2 {
-        padding: 348px 0 40px;
-        width: 968px; }
+        padding: 348px 0 40px 173px;
+        width: 1150px; }
     .why-tinsel .content {
         width: 968px; }
     .why-tinsel .team-btn {
@@ -379,8 +379,9 @@ body {}
     .mailing-list .content {
         margin: 0 auto;
         padding: 0;
-        width: 968px; }
+        width: 1150px; }
     .mailing-list h2 {
+        padding-left: 173px;
         padding-top: 100px;
         width: auto; }
     .mailing-list form {
