@@ -354,7 +354,7 @@ body {}
 }
 
 .mailing-list {
-    background: #000 url("/assets/purple-pattern-bg.jpg") 0 0 no-repeat;
+    background: #fff url("/assets/purple-pattern-bg.jpg") 0 0 no-repeat;
     background-size: 768px; }
     .mailing-list h2 { 
         padding-left: 0;
