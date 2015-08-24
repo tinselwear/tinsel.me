@@ -368,6 +368,7 @@ body {}
             color: #fff;
             font-family: "CentaurMT-BoldItalic", serif;
             font-size: 23px;
+            letter-spacing: normal;
             line-height: 1;
             padding: 10px 30px;
             text-transform: none; }
