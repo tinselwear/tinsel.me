@@ -134,11 +134,11 @@
 <div class="row">
   <div id="mailingList" class="content-section-alt mailing-list">
     <div class="row content">
-      <div class="col-sm-6">
+      <div class="col-sm-6 copy-section">
         <h2>SIGN UP FOR<br> OUR MAILING LIST</h2>
         <p>Our subscribers will get special access and pre-sale discounts!</p>
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-6 form-section">
         <!-- form block -->
         <squarespace:block-field id="mailingListBlock" label="Mailing List Form" columns="1" />
         <!-- end form block -->

@@ -380,10 +380,13 @@ body {}
         margin: 0 auto;
         padding: 0;
         width: 1150px; }
+    .mailing-list .copy-section {
+        padding-left: 173px; }
     .mailing-list h2 {
-        padding-left: 173px;
         padding-top: 100px;
         width: auto; }
+    .mailing-list .form-section {
+        padding-right: 173px; }
     .mailing-list form {
         padding: 75px 0 75px; }
 }
