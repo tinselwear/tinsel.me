@@ -215,7 +215,7 @@ body {}
 @media (min-width: 768px) {
 .features-benefits {
     background: #000 url("/assets/features-benefits-bg.jpg") 50% 0 no-repeat;
-    background-size: auto;
+    background-size: cover;
     max-height: 1034px; }
     .features-benefits .section-border {
         display: none; }
