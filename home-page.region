@@ -26,17 +26,17 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <div class="item-img"><img src="/assets/jewel-piece-white.png" alt="..."></div>
+          <img src="/assets/jewel-piece-white.png" alt="...">
           <p class="tagline">a bold, beautiful jewelry piece</p>
           <p>Our first audio necklace, The Dipper, seamlessly blends style and function. No one will know that you’re wearing anything other than a necklace when it’s not in use.</p>
         </div>
         <div class="item">
-          <div class="item-img"><img src="/assets/sound-wave-white.png" alt="..."></div>
+          <img src="/assets/sound-wave-white.png" alt="...">
           <p class="tagline">headphones with premium audio quality</p>
           <p>Tinsel delivers high-quality sound that rivals other audio brands. Our earbuds use the top-of-the-line components and are tuned to perfection.</p>
         </div>
         <div class="item">
-          <div class="item-img"><img src="/assets/earbud-chevrons-white.png" alt="..."></div>
+          <img src="/assets/earbud-chevrons-white.png" alt="...">
           <p class="tagline">a hassle-free earbud experience</p>
           <p>No more untangling wires for days, digging for earbuds in your black hole of a purse, looking like a wannabe DJ or downgrading your carefully curated outfit.</p>
         </div>
